@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "612302314676",
+    "project_id": "forest-videocalling",
+    "storage_bucket": "forest-videocalling.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612302314676:android:8d5ff7607e219101f90be1",
+        "android_client_info": {
+          "package_name": "com.exaple.videoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612302314676-md20gdhalbk6tg0m5cos8rq1e4otukdj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsh1rg72KYNpbPqrNLJrmuzc9oWkB4zvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612302314676-md20gdhalbk6tg0m5cos8rq1e4otukdj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
